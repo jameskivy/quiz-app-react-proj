@@ -10,7 +10,7 @@ export default function DenseAppBar() {
             <AppBar position="static">
                 <Toolbar variant="dense">
                     <Typography variant="h6" color="inherit" component="div">
-                        Sports Quiz App
+                        Trivia Quiz App
                     </Typography>
                     <Typography ml={112} variant="h6" color="inherit" component="div">
                         Home
