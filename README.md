@@ -8,13 +8,13 @@
 
 
 # Overview:
-<br>
+
 I have created a Trivia Quiz Application that allows users to test their knowledge across several different categories. The user has an experience of selecting a category, a difficulty between easy, medium, or hard, the amount of questions, and a option between T/F or Multiple choice.
 
 
 
 # The Team:
-<br>
+
 This was an individual project created by James Ivy.
 
 
