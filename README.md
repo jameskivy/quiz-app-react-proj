@@ -1,71 +1,55 @@
-# Getting Started with Create React App
+# Trivia Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Screenshots:
+ <!-- ![Alt text](images/Homepage_Screen_shot_1.png)
+<br/> -->
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
 
-### `npm start`
+# Overview:
+<br>
+I have created a Trivia Quiz Application that allows users to test their knowledge across several different categories. The user has an experience of selecting a category, a difficulty between easy, medium, or hard, the amount of questions, and a option between T/F or Multiple choice.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+# The Team:
+<br>
+This was an individual project created by James Ivy.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Tools used in the project:
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Redux
+- Material UI
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# APIs:
+<br>
 
-### `npm run eject`
+- Open Trivia Database: https://opentdb.com/api_config.php
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Basic Objectives:
+<br>
+<!-- Allow user to search for video game content that will return a information about the game. -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Flex Goals Completed:
+<br>
+<!-- - Allow users to search any video game of their choice and be able to provide a description for them. 
+- Implement nice CSS animations and/or hover effects. -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# Stretch Goals Future:
+<br>
+<!-- - Allow users to browse through a top sellers and new releases tab on our website. 
+- Find a second API call to implement. -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# quiz-app-react-proj
+# Challenges & Solutions:
+<br>
+<!-- - Challenge: The user would have to search the name of the game with the exact match, for example, if a colon was used then a colon would have to be typed  for the results to return. 
+- Solution: Pull data and save information to the local storage. -->
