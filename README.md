@@ -23,7 +23,7 @@ This was an individual project created by James Ivy.
 
 - React
 - Redux
-- Material UI
+- Material-UI (MUI)
 
 <br>
 
