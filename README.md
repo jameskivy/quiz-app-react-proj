@@ -12,11 +12,13 @@
 I have created a Trivia Quiz Application that allows users to test their knowledge across several different categories. The user has an experience of selecting a category, a difficulty between easy, medium, or hard, the amount of questions, and a option between T/F or Multiple choice.
 
 <br>
+
 # The Team:
 
 This was an individual project created by James Ivy.
 
 <br>
+
 # Tools used in the project:
 
 - React
@@ -24,6 +26,7 @@ This was an individual project created by James Ivy.
 - Material UI
 
 <br>
+
 # APIs:
 
 - Open Trivia Database: https://opentdb.com/api_config.php
