@@ -12,9 +12,6 @@ export default function DenseAppBar() {
                     <Typography variant="h6" color="inherit" component="div">
                         Trivia Quiz App
                     </Typography>
-                    <Typography ml={112} variant="h6" color="inherit" component="div">
-                        Home
-                    </Typography>
                 </Toolbar>
             </AppBar>
         </Box>
